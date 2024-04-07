@@ -1,0 +1,18 @@
+{
+  "name": "test_prblm_solve",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^10.3.0"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "description": ""
+}
